@@ -5,8 +5,8 @@ from keboola_streamlit import KeboolaStreamlit
 
 st.set_page_config(layout="wide")
 
-STORAGE_API_TOKEN = st.secrets['STORAGE_API_TOKEN']
-KEBOOLA_HOSTNAME = st.secrets['KEBOOLA_HOSTNAME']
+#STORAGE_API_TOKEN = st.secrets['STORAGE_API_TOKEN']
+#KEBOOLA_HOSTNAME = st.secrets['KEBOOLA_HOSTNAME']
 
 #keboola = KeboolaStreamlit(KEBOOLA_HOSTNAME, STORAGE_API_TOKEN)
 
