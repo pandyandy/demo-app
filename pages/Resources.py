@@ -3,8 +3,8 @@ import streamlit as st
 st.markdown("""
 ### 🤓 Helpful Docs and Resources
 
-- 🔗 [App URL](https://t.ly/r-Sme)
-            
+- 🔗 [https://t.ly/r-Sme](https://t.ly/r-Sme)
+
 - 🇨🇿 [App Repository](https://github.com/pandyandy/demo-app)
             
 - 👋 [Hello, World! Data App](https://75299519.hub.north-europe.azure.keboola.com)
