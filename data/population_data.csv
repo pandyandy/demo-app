@@ -1,0 +1,166 @@
+Country_Name,Country_Code,Indicator_Name,Indicator_Code,Year,Population
+Austria,AUT,"Population, total",SP.POP.TOTL,1990,7677850.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1991,7754891.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1992,7840709.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1993,7905633.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1994,7936118.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1995,7948278.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1996,7959017.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1997,7968041.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1998,7976789.0
+Austria,AUT,"Population, total",SP.POP.TOTL,1999,7992324.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2000,8011566.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2001,8042293.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2002,8081957.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2003,8121423.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2004,8171966.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2005,8227829.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2006,8268641.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2007,8295487.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2008,8321496.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2009,8343323.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2010,8363404.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2011,8391643.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2012,8429991.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2013,8479823.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2014,8546356.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2015,8642699.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2016,8736668.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2017,8797566.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2018,8840521.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2019,8879920.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2020,8916864.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2021,8955797.0
+Austria,AUT,"Population, total",SP.POP.TOTL,2022,9041851.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1990,10333355.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1991,10308578.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1992,10319123.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1993,10329855.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1994,10333587.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1995,10327253.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1996,10315241.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1997,10304131.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1998,10294373.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,1999,10283860.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2000,10255063.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2001,10216605.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2002,10196916.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2003,10193998.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2004,10197101.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2005,10211216.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2006,10238905.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2007,10298828.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2008,10384603.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2009,10443936.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2010,10474410.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2011,10496088.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2012,10510785.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2013,10514272.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2014,10525347.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2015,10546059.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2016,10566332.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2017,10594438.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2018,10629928.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2019,10671870.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2020,10697858.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2021,10505772.0
+Czechia,CZE,"Population, total",SP.POP.TOTL,2022,10672118.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1990,79433029.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1991,80013896.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1992,80624598.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1993,81156363.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1994,81438348.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1995,81678051.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1996,81914831.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1997,82034771.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1998,82047195.0
+Germany,DEU,"Population, total",SP.POP.TOTL,1999,82100243.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2000,82211508.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2001,82349925.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2002,82488495.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2003,82534176.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2004,82516260.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2005,82469422.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2006,82376451.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2007,82266372.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2008,82110097.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2009,81902307.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2010,81776930.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2011,80274983.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2012,80425823.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2013,80645605.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2014,80982500.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2015,81686611.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2016,82348669.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2017,82657002.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2018,82905782.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2019,83092962.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2020,83160871.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2021,83196078.0
+Germany,DEU,"Population, total",SP.POP.TOTL,2022,83797985.0
+Poland,POL,"Population, total",SP.POP.TOTL,1990,38110782.0
+Poland,POL,"Population, total",SP.POP.TOTL,1991,38246193.0
+Poland,POL,"Population, total",SP.POP.TOTL,1992,38363667.0
+Poland,POL,"Population, total",SP.POP.TOTL,1993,38461408.0
+Poland,POL,"Population, total",SP.POP.TOTL,1994,38542652.0
+Poland,POL,"Population, total",SP.POP.TOTL,1995,38594998.0
+Poland,POL,"Population, total",SP.POP.TOTL,1996,38624370.0
+Poland,POL,"Population, total",SP.POP.TOTL,1997,38649660.0
+Poland,POL,"Population, total",SP.POP.TOTL,1998,38663481.0
+Poland,POL,"Population, total",SP.POP.TOTL,1999,38660271.0
+Poland,POL,"Population, total",SP.POP.TOTL,2000,38258629.0
+Poland,POL,"Population, total",SP.POP.TOTL,2001,38248076.0
+Poland,POL,"Population, total",SP.POP.TOTL,2002,38230364.0
+Poland,POL,"Population, total",SP.POP.TOTL,2003,38204570.0
+Poland,POL,"Population, total",SP.POP.TOTL,2004,38182222.0
+Poland,POL,"Population, total",SP.POP.TOTL,2005,38165445.0
+Poland,POL,"Population, total",SP.POP.TOTL,2006,38141267.0
+Poland,POL,"Population, total",SP.POP.TOTL,2007,38120560.0
+Poland,POL,"Population, total",SP.POP.TOTL,2008,38125759.0
+Poland,POL,"Population, total",SP.POP.TOTL,2009,38151603.0
+Poland,POL,"Population, total",SP.POP.TOTL,2010,38042794.0
+Poland,POL,"Population, total",SP.POP.TOTL,2011,38063255.0
+Poland,POL,"Population, total",SP.POP.TOTL,2012,38063164.0
+Poland,POL,"Population, total",SP.POP.TOTL,2013,38040196.0
+Poland,POL,"Population, total",SP.POP.TOTL,2014,38011735.0
+Poland,POL,"Population, total",SP.POP.TOTL,2015,37986412.0
+Poland,POL,"Population, total",SP.POP.TOTL,2016,37970087.0
+Poland,POL,"Population, total",SP.POP.TOTL,2017,37974826.0
+Poland,POL,"Population, total",SP.POP.TOTL,2018,37974750.0
+Poland,POL,"Population, total",SP.POP.TOTL,2019,37965475.0
+Poland,POL,"Population, total",SP.POP.TOTL,2020,37899070.0
+Poland,POL,"Population, total",SP.POP.TOTL,2021,37747124.0
+Poland,POL,"Population, total",SP.POP.TOTL,2022,36821749.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1990,5299187.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1991,5303294.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1992,5305016.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1993,5325305.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1994,5346331.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1995,5361999.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1996,5373361.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1997,5383291.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1998,5390516.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,1999,5396020.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2000,5388720.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2001,5378867.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2002,5376912.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2003,5373374.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2004,5372280.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2005,5372807.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2006,5373054.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2007,5374622.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2008,5379233.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2009,5386406.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2010,5391428.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2011,5398384.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2012,5407579.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2013,5413393.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2014,5418649.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2015,5423801.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2016,5430798.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2017,5439232.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2018,5446771.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2019,5454147.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2020,5458827.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2021,5447247.0
+Slovak Republic,SVK,"Population, total",SP.POP.TOTL,2022,5431752.0
