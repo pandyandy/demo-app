@@ -19,8 +19,8 @@ st.set_page_config(layout="wide")
 #gdp_data = get_dataframe('in.c-data.gdp_data')
 #population_data = get_dataframe("in.c-data.population_data")
 
-gdp_data = pd.read_csv('data/gdp_data.csv')
-population_data = pd.read_csv('data/population_data.csv')
+gdp_data = pd.read_csv('gdp_data.csv')
+population_data = pd.read_csv('population_data.csv')
 
 gdp_data = gdp_data.sort_values(by=['Country_Name', 'Year'])
 population_data = population_data.sort_values(by=['Country_Name', 'Year'])
