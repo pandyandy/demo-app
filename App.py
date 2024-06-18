@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from keboola_streamlit import KeboolaStreamlit
-
+import os
 st.set_page_config(layout="wide")
 
 #STORAGE_API_TOKEN = st.secrets['STORAGE_API_TOKEN']
@@ -19,8 +19,10 @@ st.set_page_config(layout="wide")
 #gdp_data = get_dataframe('in.c-data.gdp_data')
 #population_data = get_dataframe("in.c-data.population_data")
 
-gdp_data = pd.read_csv('gdp_data.csv')
-population_data = pd.read_csv('population_data.csv')
+path = os.path.dirname(os.path.abspath(__file__))
+
+gdp_data = pd.read_csv(path + '/gdp_data.csv')
+population_data = pd.read_csv(path + '/population_data.csv')
 
 gdp_data = gdp_data.sort_values(by=['Country_Name', 'Year'])
 population_data = population_data.sort_values(by=['Country_Name', 'Year'])
